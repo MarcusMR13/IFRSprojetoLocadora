@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define MAX_GUERREIROS  10
-#define MAX_DRAGOES  15
+#define MAX_DRAGOES  16
 
 //guerreiros ('\0' = vazio)
 char nomeGuerreiro [MAX_GUERREIROS][30];
